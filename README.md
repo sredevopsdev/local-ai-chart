@@ -1,13 +1,13 @@
 # Overview
 
-Helm charts for go-skynet projects.
+Helm charts based on go-skynet projects.
 
 ## LocalAI Installation
 
-Add the go-skynet helm repo:
+Add the sredevopsdev helm repo:
 
 ```bash
-helm repo add go-skynet https://sredevopsdev.github.io/local-ai-cbart/
+helm repo add sredevopsdev https://sredevopsdev.github.io/local-ai-chart/
 ```
 
 Create a `values.yaml` file for the LocalAI chart and customize as needed:
